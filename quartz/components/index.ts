@@ -20,7 +20,9 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import YourComponent from "./YourComponent"
 
+export { YourComponent }
 export {
   ArticleTitle,
   Content,

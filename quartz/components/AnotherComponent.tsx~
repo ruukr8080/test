@@ -1,0 +1,14 @@
+import YourComponent from "./YourComponent"
+
+export default (() => {
+  function AnotherComponent(props: QuartzComponentProps) {
+    return (
+      <div>
+        <p>It's nested!</p>
+        <YourComponent {...props} />
+      </div>
+    )
+  }
+
+  return AnotherComponent
+}) satisfies QuartzComponentConstructor

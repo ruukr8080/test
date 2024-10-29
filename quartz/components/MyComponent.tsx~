@@ -1,0 +1,14 @@
+import { QuartzComponentConstructor } from "./types"
+
+export default (() => {
+  function MyComponent() {
+    return <button id="btn">Click me</button>
+  }
+
+  MyComponent.beforeDOMLoaded = `console.log("hello from before the page loads!")`
+
+  MyComponent.afterDOMLoaded = `document.getElementById('btn').onclick = () => {
+    alert('button clicked!')  
+    }`
+  return MyComponent
+}) satisfies QuartzComponentConstructor
