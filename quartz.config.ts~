@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     locale: "ko-KR",
     baseUrl: "ruukr8080.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
