@@ -1,1 +1,10 @@
-# ㅆㅂ
+# 힘든 여정이었다.
+
+## 목표
+
+
+- [ x ] workflow로 개발,운영 통합 관리 자동화 
+- [  ] Web Terminal 구현
+- [  ] beforeDomLoaded,navbar 렌딩페이지 구현
+- [  ] giscus - comment 작성권한 github oauth2 구현
+- [  ] 
