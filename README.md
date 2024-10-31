@@ -11,6 +11,12 @@
 
 
 - 예술성
+### design improve
+- 가시성 
+  - [  ] navbar 렌딩페이지 구현 , side.left 에 contents-controller 
+- 편의성
+
+- 
 
 
 ### 

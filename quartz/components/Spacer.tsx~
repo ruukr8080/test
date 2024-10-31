@@ -1,4 +1,4 @@
-// compoenent들 사이즈를 반응형 만들어주는
+// compoenent들 사이즈를 반응형 만들어주는 
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
