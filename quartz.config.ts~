@@ -3,8 +3,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "han",
-    pageTitleSuffix: "글카지지대",
+    pageTitle: "글지대",
+    pageTitleSuffix: "- 글지대",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
