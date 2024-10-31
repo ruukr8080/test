@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730387230665</updated>
       <workItem from="1730387231859" duration="2010000" />
-      <workItem from="1730389298625" duration="2668000" />
+      <workItem from="1730389298625" duration="6640000" />
     </task>
     <servers />
   </component>
