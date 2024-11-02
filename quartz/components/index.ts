@@ -21,10 +21,11 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 
-import YourComponent from "./YourComponent"
-import Navbar from "./Navbar"
 
-export { YourComponent, Navbar }
+
+import Nav from "./Nav"
+
+export { Nav  }
 export {
   ArticleTitle,
   Content,

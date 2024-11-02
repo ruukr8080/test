@@ -1,6 +1,21 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+//
+// export const mainPageLayout: PageLayout = {
+//   beforeBody: [
+//     Component.Breadcrumbs(),
+//   ],
+//   left: [
+//     Component.PageTitle(),
+//     Component.Nav(undefined),
+//     Component.Search(),
+//     Component.Darkmode(),
+//   ],
+//   right: [], // 오른쪽 사이드바 비우기
+// }
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -16,21 +31,27 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 // components for pages that display a single page (e.g. a single note)
-// @ts-ignore
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.RecentNotes({ title: "Recent post" }),
+    // Component.RecentProjects({ title: "Projects" }),
+    // Component.RecentNotes({ title: "giscus" }),
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    // Component.ArticleTitle(),
+    // Component.ContentMeta(),
+    // Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Navbar(undefined),
-    Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Nav(undefined),
+    // Component.Search(),
+    Component.DesktopOnly(Component.Explorer({
+
+      // 추가 옵션
+      useSavedState: false  // 이전 상태를 저장하지 않음
+    })),
   ],
   right: [
     Component.Graph(),
@@ -41,13 +62,22 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Nav(undefined),
+    Component.DesktopOnly(Component.Explorer({
+      // 추가 옵션
+      useSavedState: false  // 이전 상태를 저장하지 않음
+    })),
   ],
-  right: [],
+  right: [
+
+  ],
 }
