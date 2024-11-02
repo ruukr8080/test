@@ -1,56 +1,57 @@
 // quartz/components/Navbar.tsx
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponentConstructor } from "./types"
 
 const Navbar: QuartzComponentConstructor = () => {
   function NavbarComponent() {
     return (
-      <nav class="navbar">
-        <div class="navbar-content">
-          <a href="/" class="navbar-title">Home</a>
-          <div class="navbar-links">
-            <a href="/blog">Blog</a>
-            <a href="/projects">Projects</a>
+      <nav className="Navbar">
+        <ul>
+          <li>
+            <a href="/">Home </a>
+          </li>
+          <li>
+            <a href="/posts">Posts</a>
+          </li>
+
+          <li>
+            <a href="/study">Study</a>
+          </li>
+          <li>
             <a href="/about">About</a>
-          </div>
-        </div>
+          </li>
+        </ul>
       </nav>
     )
   }
 
   NavbarComponent.css = `
-    .navbar {
-      padding: 1rem;
-      background: var(--light);
-      border-bottom: 1px solid var(--lightgray);
+    .mini-nav {
+      width: 100%;
+      margin-bottom: 1.5rem;
     }
 
-    .navbar-content {
-      max-width: 1200px;
-      margin: 0 auto;
+    .mini-nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
       display: flex;
-      justify-content: space-between;
+      flex-direction: column;
       align-items: center;
+      gap: 0.5rem;
     }
 
-    .navbar-title {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: var(--dark);
-      text-decoration: none;
-    }
-
-    .navbar-links {
-      display: flex;
-      gap: 1.5rem;
-    }
-
-    .navbar-links a {
+    .mini-nav a {
       color: var(--darkgray);
       text-decoration: none;
+      font-size: 0.9rem;
+      transition: all 0.2s ease;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
     }
 
-    .navbar-links a:hover {
+    .mini-nav a:hover {
       color: var(--secondary);
+      background-color: var(--lightgray);
     }
   `
 

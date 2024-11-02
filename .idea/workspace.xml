@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Navbar.tsx" afterDir="false" />
+    </list>
+    <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="">
+      <change beforePath="$PROJECT_DIR$/quartz/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -22,9 +35,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ruukr8080&quot;
+    &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -33,6 +50,30 @@
     &quot;accountId&quot;: &quot;53c94b4a-db67-4507-a242-53f6731f0d4e&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/quartz/components/Navbar.tsx">
+      <ranges>
+        <range start1="1" end1="2" start2="1" end2="2" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="6" end1="12" start2="6" end2="19" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="13" end1="15" start2="20" end2="22" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="20" end1="39" start2="27" end2="30" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="41" end1="42" start2="32" end2="36" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="43" end1="44" start2="37" end2="40" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="46" end1="47" start2="42" end2="43" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="49" end1="49" start2="45" end2="49" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="51" end1="52" start2="51" end2="52" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="53" end1="53" start2="53" end2="54" changelist="21c12680-52bf-4478-9664-cd6cd9c01684" />
+        <range start1="60" end1="60" start2="61" end2="62" changelist="16982c71-0cd5-459a-a792-59b84ba37b3b" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,20 +87,39 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;v4&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/workspace/ruukr8080.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/ruukr8080.github.io/quartz/components&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.check.executor&quot;: &quot;Run&quot;,
     &quot;npm.dev.executor&quot;: &quot;Run&quot;,
     &quot;npm.quartz.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\workspace\\ruukr8080.github.io\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.dsoftware.ghmanager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\workspace\\ruukr8080.github.io\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="check" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="check" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -73,6 +133,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.check" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +155,9 @@
       <updated>1730387230665</updated>
       <workItem from="1730387231859" duration="2010000" />
       <workItem from="1730389298625" duration="6640000" />
-      <workItem from="1730460639002" duration="2599000" />
+      <workItem from="1730460639002" duration="2882000" />
+      <workItem from="1730471599149" duration="14184000" />
+      <workItem from="1730544455898" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -104,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730397411892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1730471540036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730471540036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +194,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
