@@ -12,7 +12,7 @@ import { i18n } from "../i18n"
 const defaultOptions = {
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
-  useSavedState: true,
+  useSavedState: false,
   mapFn: (node) => {
     return node
   },
@@ -85,7 +85,7 @@ export default ((userOpts?: Partial<Options>) => {
     }
 
     return (
-      <div class={classNames(displayClass, "explorer")}>
+      <div class={classNames(displayClass, "post")}>
         <button
           type="button"
           id="explorer"

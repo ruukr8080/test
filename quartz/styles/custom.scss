@@ -5,11 +5,12 @@
 .sidebar.left {
   // 기본 정렬 및 여백
   display: flex;
-  flex-direction: column;
+  //flex-direction: column;
   align-items: center;
-  padding-right: 2rem;
+
 
   // 각 요소들 스타일링
+
   .search-container {
     display: flex;
     justify-content: center;
@@ -25,12 +26,8 @@
   .folder,
    {
     display: flex;
-    justify-content: center;
-    width: 100%;
-  }
-  .darkmode{
-    display: flex;
-    justify-content: flex-end;
+    align-items: flex-start;
+    //justify-content: center;
     width: 100%;
   }
   // Explorer 폴더 정렬 좌로
@@ -40,10 +37,4 @@
     align-items: flex-start;
     width: 100%;
   }
-  //
-  //.page-header{
-  //  margin-top: 50px;
-  //}
-
-
 }
