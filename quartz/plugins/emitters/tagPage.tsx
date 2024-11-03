@@ -24,6 +24,7 @@ interface TagPageOptions extends FullPageLayout {
 
 export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) => {
   const opts: FullPageLayout = {
+    afterBody: [],
     ...sharedPageComponents,
     ...defaultListPageLayout,
     pageBody: TagContent({ sort: userOpts?.sort }),

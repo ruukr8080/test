@@ -85,7 +85,7 @@ export default ((userOpts?: Partial<Options>) => {
     }
 
     return (
-      <div class={classNames(displayClass, "post")}>
+      <div class={classNames(displayClass, "explorer")}>
         <button
           type="button"
           id="explorer"
@@ -97,6 +97,7 @@ export default ((userOpts?: Partial<Options>) => {
           aria-expanded={opts.folderDefaultState === "open"}
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          {/*<h2>🪴POST</h2>*/}
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
