@@ -4,23 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐.">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/book/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/book/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/github/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/github/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced/architecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced/creating components.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced/making plugins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced/paths.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/authoring content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/Docker Support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/Latex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/Mermaid diagrams.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/Obsidian compatibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/OxHugo compatibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/RSS Feed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/Roam Research compatibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/SPA Routing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/backlinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/breadcrumbs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/callouts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/darkmode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/explorer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/folder and tag listings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/full-text search.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/graph view.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/i18n.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/popover previews.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/private pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/recent notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/syntax highlighting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/table of contents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/upcoming features.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/wikilinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hosting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/dns records.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/giscus-discussion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/giscus-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/giscus-repo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/giscus-results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/github-init-repo-options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/github-quick-setup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/quartz transform pipeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/quartz-layout-desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/quartz-layout-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/quartz-layout-tablet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/migrating from Quartz 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/philosophy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/AliasRedirects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/Assets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/CNAME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/ComponentResources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/ContentIndex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/ContentPage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/CrawlLinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/CreatedModifiedDate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/Description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/ExplicitPublish.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/FolderPage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/Frontmatter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/GitHubFlavoredMarkdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/HardLineBreaks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/Latex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/NotFoundPage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/ObsidianFlavoredMarkdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/OxHugoFlavoredMarkdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/RemoveDrafts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/RoamFlavoredMarkdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/Static.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/SyntaxHighlighting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/TagPage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plugins/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/setting up your GitHub repository.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/showcase.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/component.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/plugin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/upgrading.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/AnotherComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/cfg.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/cfg.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz/components/Explorer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Explorer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/Navbar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/YourComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/components/RecentNotes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/RecentNotes.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/recentNotes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/recentNotes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/plugins/emitters/404.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/emitters/404.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/plugins/emitters/contentPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/emitters/contentPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/plugins/emitters/folderPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/emitters/folderPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/plugins/emitters/tagPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/emitters/tagPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/variables.scss" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +165,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content",
+    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content/book",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,25 +175,28 @@
     "nodejs_package_manager_path": "npm",
     "npm.check.executor": "Run",
     "npm.dev.executor": "Run",
+    "npm.format.executor": "Run",
     "npm.quartz.executor": "Run",
     "npm.test.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "C:\\workspace\\ruukr8080.github.io\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "Errors",
     "ts.external.directory.path": "C:\\workspace\\ruukr8080.github.io\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\ruukr8080.github.io\content\book" />
       <recent name="C:\workspace\ruukr8080.github.io\content" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
       <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\ruukr8080.github.io\content\Git-Flow" />
       <recent name="C:\workspace\ruukr8080.github.io\content" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\github" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\Github" />
-      <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
-      <recent name="C:\workspace\ruukr8080.github.io\quartz\components\pages" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\post" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\book" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -131,6 +220,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -144,8 +243,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
-        <item itemvalue="npm.test" />
+        <item itemvalue="npm.format" />
         <item itemvalue="npm.check" />
+        <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +270,8 @@
       <workItem from="1730460639002" duration="2882000" />
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
+      <workItem from="1730612201763" duration="9016000" />
+      <workItem from="1730622757944" duration="20350000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -187,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730471540036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐.">
+      <option name="closed" value="true" />
+      <created>1730585493107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730585493107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +317,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐." />
+    <option name="LAST_COMMIT_MESSAGE" value="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

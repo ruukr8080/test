@@ -8,7 +8,6 @@
   //flex-direction: column;
   align-items: center;
 
-
   // 각 요소들 스타일링
 
   .search-container {
@@ -23,8 +22,7 @@
 
   .page-title,
   .search,
-  .folder,
-   {
+  .folder {
     display: flex;
     align-items: flex-start;
     //justify-content: center;
@@ -37,4 +35,13 @@
     align-items: flex-start;
     width: 100%;
   }
+}
+
+
+#explorer-content ul{
+  font-size: .8rem;
+}
+
+#explorer-content li{
+  font-size: .7rem;
 }

@@ -21,11 +21,9 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 
-
-
 import Nav from "./Nav"
 
-export { Nav  }
+export { Nav }
 export {
   ArticleTitle,
   Content,

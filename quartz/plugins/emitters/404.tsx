@@ -13,6 +13,7 @@ import DepGraph from "../../depgraph"
 
 export const NotFoundPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
+    afterBody: [],
     ...sharedPageComponents,
     pageBody: NotFound(),
     beforeBody: [],

@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <div>
-        {/*{i18n(cfg.locale).components.footer.}{" "}*/}
+          {/*{i18n(cfg.locale).components.footer.}{" "}*/}
           <a href="https://ruukr8080.github.io/">글지대 v{version}</a>
         </div>
 

@@ -1,0 +1,46 @@
+
+
+
+```js
+<script
+  src="https://giscus.app/client.js"
+  data-repo="ruukr8080/ruukr8080.github.io"
+  data-repo-id="R_kgDOND4Puw"
+  data-category="댓글"
+  data-category-id="DIC_kwDOND4Pu84Cj71_"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="light_high_contrast"
+  data-lang="ko"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+```
+
+
+---
+
+```js
+
+
+
+// afterBody: [
+//   Component.Comments({
+//     provider: 'giscus',
+//     options: {
+//       // from data-repo
+//       repo: 'ruukr8080/ruukr8080.github.io',
+//       // from data-repo-id
+//       repoId: 'R_kgDOND4Puw',
+//       // from data-category
+//       category: '댓글',
+//       // from data-category-id
+//       categoryId: 'DIC_kwDOND4Pu84Cj71_',
+//     }
+//   }),
+// ]
+```
