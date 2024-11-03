@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="deploy test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Book/도서리뷰-Learning Github Action 러닝 깃허브 액션.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Book/러닝 깃허브 액션.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Git-Flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Github/Git-Flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Github/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
@@ -66,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content/book",
+    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content/Glegidae/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,12 +86,13 @@
     "npm.test.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "C:\\workspace\\ruukr8080.github.io\\node_modules\\prettier",
     "settings.editor.selected.configurable": "Errors",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\workspace\\ruukr8080.github.io\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\ruukr8080.github.io\content\Glegidae\test" />
       <recent name="C:\workspace\ruukr8080.github.io\content\book" />
       <recent name="C:\workspace\ruukr8080.github.io\content" />
       <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
@@ -102,7 +106,7 @@
       <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.hot">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="bun" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -155,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.hot" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.hot" />
         <item itemvalue="npm.bun" />
         <item itemvalue="npm.format" />
         <item itemvalue="npm.check" />
@@ -185,7 +189,7 @@
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
       <workItem from="1730612201763" duration="9016000" />
-      <workItem from="1730622757944" duration="22038000" />
+      <workItem from="1730622757944" duration="24797000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -219,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730643596878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="deploy test">
+      <option name="closed" value="true" />
+      <created>1730645378389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730645378389</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

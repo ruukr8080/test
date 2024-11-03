@@ -5,40 +5,40 @@
 .sidebar.left {
   // 기본 정렬 및 여백
   display: flex;
-  //flex-direction: column;
-  align-items: center;
-//background: red;
+  flex-direction: column;
+  //align-items: center;
+  //background: red;
 
-  // 각 요소들 스타일링
+  //  // 각 요소들 스타일링
+  //
+  //  .search-container {
+  //    display: flex;
+  //    justify-content: center;
+  //    width: 100%;
+  //
+  //    input {
+  //      text-align: center;
+  //    }
+  //  }
+  //
+  //  .page-title,
+  //  .search,
+  //  .folder {
+  //    display: flex;
+  //    align-items: flex-start;
+  //    //justify-content: center;
+  //    width: 100%;
+  //  }
+  //  // Explorer 폴더 정렬 좌로
+  //  .folder-outer {
+  //    display: flex;
+  //    flex-direction: column;
+  //    align-items: flex-start;
+  //    width: 100%;
+  //  }
+  //}
 
-  .search-container {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-
-    input {
-      text-align: center;
-    }
-  }
-
-  .page-title,
-  .search,
-  .folder {
-    display: flex;
-    align-items: flex-start;
-    //justify-content: center;
-    width: 100%;
-  }
-  // Explorer 폴더 정렬 좌로
-  .folder-outer {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-  }
 }
-
-
 #explorer-content ul{
   font-size: .8rem;
 }
