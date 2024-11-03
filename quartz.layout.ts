@@ -11,8 +11,20 @@ export const sharedPageComponents: SharedLayout = {
     Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.Nav(undefined),
-    Component.DesktopOnly(Component.Explorer()),
-  ],
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "📚포스트",
+        folderClickBehavior: "collapse",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        // public 폴더의 파일만 필터링
+        // filterFn: (node) => {
+        //   const path = node.file?.relativePath ?? node.name
+        //   return path.startsWith("public")
+        // },
+        sortFn: (a, b) => a.name.localeCompare(b.name),
+      })
+    )],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/ruukr8080",
