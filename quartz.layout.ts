@@ -24,20 +24,15 @@ export const sharedPageComponents: SharedLayout = {
         // },
         sortFn: (a, b) => a.name.localeCompare(b.name),
       })
+
     )],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/ruukr8080",
-      "KakaoTalk Message": "https://open.kakao.com/o/sCay2dXg",
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.RecentNotes({ title: "RecentNotes" })
+
 }
 
 // 단일 페이지 컴포넌트 (노트 페이지)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.RecentNotes({ title: "최근 포스트" }),
     Component.Breadcrumbs(),
     Component.ArticleTitle(), // 글 제목 추가
     Component.ContentMeta(), // 메타 정보 추가
@@ -52,7 +47,6 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
   right: [

@@ -4,15 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="deploy test">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/content/.private/Next.js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/.private/Slug.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/.private/load Balencer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/IT 대사전.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/노트/XML.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Book/도서리뷰-Learning Github Action 러닝 깃허브 액션.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Book/러닝 깃허브 액션.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Github/Git-Flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Github/Git-Flow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Github/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Github/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/.private" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/.quartz 설정" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Book/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Book/러닝 깃허브 액션.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/도서 리뷰/Learning-GitHub-Actions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Git-Flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Git-Flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Github-Flow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Github_Actions-Environment.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/Github_Actions-Environment.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Github_Actions-Keyword.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Github 대사전.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Github_Actions-WorkflowFile.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Github_Actions-WorkflowFile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/Github_Actions.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Github_Actions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Github/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Glegidae/글지대봇.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/chatbot ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Next/Next.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/Next조사.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Next/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/.ts .tsx.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/.ts .tsx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Argument.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/argument.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Cache.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/cache.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Filename Extension.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/filename Extension.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Hook.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/Hook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/JSON.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/JSON.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/JSX.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/JSX.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Link.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/Link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Load Balencer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/MSA.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/MSA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Markup language.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Markup language.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Quartz.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Quartz.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/SW-developer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/SW-developer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/Slug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/XML.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Post/yargs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/yargs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Prompt-Engineering/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/AI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/React/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/react.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Spring/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/Spring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Vue/FE와 BE 분리 구조의 이해.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/FE와 BE 분리 구조의 이해.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Vue/Implementation.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Spring-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Vue/Issue.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/vue-p.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Vue/Vuex.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/vuex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Vue/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/Spring-p1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/variables.scss" afterDir="false" />
     </list>
-    <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
+    <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/cli/handlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/cli/handlers.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +67,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -67,9 +114,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "test",
+    "git-widget-placeholder": "v4",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content/Glegidae/test",
+    "last_opened_file_path": "C:/workspace/ruukr8080.github.io/content/2024보물창고",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,46 +124,27 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "npm.bun.executor": "Run",
     "npm.check.executor": "Run",
     "npm.dev.executor": "Run",
-    "npm.format.executor": "Run",
-    "npm.hot.executor": "Run",
     "npm.quartz.executor": "Run",
-    "npm.test.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "C:\\workspace\\ruukr8080.github.io\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "com.dsoftware.ghmanager",
     "ts.external.directory.path": "C:\\workspace\\ruukr8080.github.io\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workspace\ruukr8080.github.io\content\Glegidae\test" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\book" />
-      <recent name="C:\workspace\ruukr8080.github.io\content" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\2024보물창고" />
       <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workspace\ruukr8080.github.io\content\Git-Flow" />
-      <recent name="C:\workspace\ruukr8080.github.io\content" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\post" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\book" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\study\github" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\.private" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\보물창고" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\Post" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
-    <configuration name="bun" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="bun" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="check" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -137,32 +165,9 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="format" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="format" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="hot" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="hot" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
-        <item itemvalue="npm.hot" />
-        <item itemvalue="npm.bun" />
-        <item itemvalue="npm.format" />
         <item itemvalue="npm.check" />
       </list>
     </recent_temporary>
@@ -188,8 +193,6 @@
       <workItem from="1730460639002" duration="2882000" />
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
-      <workItem from="1730612201763" duration="9016000" />
-      <workItem from="1730622757944" duration="24797000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -207,31 +210,7 @@
       <option name="project" value="LOCAL" />
       <updated>1730471540036</updated>
     </task>
-    <task id="LOCAL-00003" summary="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐.">
-      <option name="closed" value="true" />
-      <created>1730585493107</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1730585493107</updated>
-    </task>
-    <task id="LOCAL-00004" summary="deploy test">
-      <option name="closed" value="true" />
-      <created>1730643596878</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1730643596878</updated>
-    </task>
-    <task id="LOCAL-00005" summary="deploy test">
-      <option name="closed" value="true" />
-      <created>1730645378389</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1730645378389</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,9 +230,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
     <MESSAGE value="update" />
-    <MESSAGE value="recent소스{그래프뷰,포스트,프로젝트} 섹션 3개로{flex-row} 해야댐." />
-    <MESSAGE value="deploy test" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy test" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

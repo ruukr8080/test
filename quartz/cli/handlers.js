@@ -31,6 +31,7 @@ import {
   cacheFile,
   cwd,
 } from "./constants.js"
+import { watchTargets } from "../../watch.config.js"
 
 /**
  * Handles `npx quartz create`
@@ -425,6 +426,12 @@ export async function handleBuild(argv) {
       .on("all", async () => {
         build(clientRefresh)
       })
+
+    console.log("데붕이의 유산")
+    chokidar.watch(watchTargets, {
+      cwd: ".",
+      ignoreInitial: true,
+    }).on("all", async () => build(clientRefresh))
   } else {
     await build(() => {})
     ctx.dispose()

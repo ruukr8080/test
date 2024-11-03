@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "ko-KR",
+    locale: "en-US",
     baseUrl: "ruukr8080.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
@@ -54,6 +54,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
+
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -68,7 +69,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts()
+
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
