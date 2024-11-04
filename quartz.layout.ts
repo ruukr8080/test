@@ -11,9 +11,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
     Component.Nav(undefined),
+    Component.Search(), //검색 기능
     Component.DesktopOnly(
       Component.Explorer({
-        title: "📚포스트",
+        title: "이거 클릭해주세요",
         folderClickBehavior: "collapse",
         folderDefaultState: "collapsed",
         useSavedState: true,
@@ -34,12 +35,13 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(), // 글 제목 추가
-    Component.ContentMeta(), // 메타 정보 추가
+    Component.ArticleTitle(), // 글 제목
+    Component.ContentMeta(), // 메타 정보
   ],
   right: [
-    Component.TableOfContents(), // 목차 추가
-    Component.Backlinks(), // 백링크 추가
+    Component.TableOfContents(), // 목차
+    Component.Backlinks(),
+
   ],
 }
 
