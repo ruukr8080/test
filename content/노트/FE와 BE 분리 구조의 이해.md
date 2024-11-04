@@ -1,5 +1,5 @@
 ---
-title: 프론트 엔드와 백엔드 분리 구조
+title: frontEnd backEnd 분리 구조 
 type: tech
 tags: [tech]
 ---

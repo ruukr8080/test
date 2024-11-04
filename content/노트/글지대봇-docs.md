@@ -1,5 +1,5 @@
 ---
-title: chatbot ai
+title: 글지대봇
 type: project
 tags: [project]
 

@@ -1,7 +1,7 @@
 ---
-title: Vue-p
-type: project
-tags: [vue.js]
+title: Vue 프로젝트
+type: project, docs
+tags: [vuejs,docs]
 
 ---
 

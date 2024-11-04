@@ -1,11 +1,9 @@
 ---
 title: index
 type: index
-
 ---
 ## Github 시리즈
-
-- [x] [부끄러움 많은 생애를 보내 왔습니다.](#)
+- [x] [부끄러움 많은 생애를 보내 왔습니다.](노트/깃허브좃된경험.md)
 - [x] [다른 브랜치에서 특정 커밋 복사해오기](#)
 - [x] [hub에 있는 코드를 로컬 작업공간에 엎치기](#)
 - [x] [병합 충돌](#)
@@ -13,9 +11,9 @@ type: index
 - ✏️[Quartz로 블로그 만들기](Quartz)
 - [x] [Github-Flow](#)
 - [Git-Flow](Git-Flow)
-- ✏️ [Github-Actions workflow file 작성하는법](Github_Actions-WorkflowFile)
+- ✏️ [Github-Actions workflow file 작성하는법](Github-Actions-WorkflowFile.md)
 - [x] [Github-Actions env 설정,관리](#)
-- ✏️[Github 대사전](Github%20대사전)
+- ✏️[Github](Github.md)
 ## 실전! Project
 - [x] [Spring Frameworks](#)
 - ✏️ [Spring Security와 JPA 학습하기 2인 팀프로젝트](https://github.com/ruukr8080/postingblog/tree/main/myBlog)

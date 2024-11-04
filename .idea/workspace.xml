@@ -4,18 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.private/미완 docs" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/미완 docs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2024보물창고/학습자료-영상.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-영상.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2024보물창고/학습자료-책.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-책.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2024보물창고/학습자료-포스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-포스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/.quartz 설정" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Github-Flow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Github_Actions-Environment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Hook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Next.js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Next조사.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/SW-developer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Slug.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/Spring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/cache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/chokidar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/cicd.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/load Balencer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.private/미완 docs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/IT 대사전.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/IT 대사전.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Pasted image 20241104092723.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/오은영소통.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/노트/AI.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/AI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/.ts .tsx.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/.ts와.tsx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/FE와 BE 분리 구조의 이해.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/FE와 BE 분리 구조의 이해.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Github 대사전.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Github_Actions-WorkflowFile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Github_Actions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/MSA.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/MSA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Quartz.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/쿼츠-doc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Spring-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/WebMvcConfigurer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/Spring-p1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/뷰프링-docs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/XML.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/XML.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/chatbot ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/글지대봇-docs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/filename Extension.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/react.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/react.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/vue-p.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/뷰프링-vue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/도서 리뷰/Learning-GitHub-Actions.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/도서 리뷰/Learning-GitHub-Actions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/보물창고2024/학습자료-영상.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-영상.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/보물창고2024/학습자료-책.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-책.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/보물창고2024/학습자료-포스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-포스트.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watch.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/watch.config.js" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +114,7 @@
     "npm.check.executor": "Run",
     "npm.dev.executor": "Run",
     "npm.quartz.executor": "Run",
-    "prettierjs.PrettierConfiguration.Package": "C:\\workspace\\ruukr8080.github.io\\node_modules\\prettier",
+    "prettierjs.PrettierConfiguration.Package": "C:\\pureQuartz\\node_modules\\prettier",
     "settings.editor.selected.configurable": "com.dsoftware.ghmanager",
     "ts.external.directory.path": "C:\\pureQuartz\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -99,9 +126,11 @@
       <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pureQuartz\content\private" />
+      <recent name="C:\pureQuartz\content" />
+      <recent name="C:\pureQuartz\quartz\static" />
       <recent name="C:\workspace\ruukr8080.github.io\content\.private" />
       <recent name="C:\workspace\ruukr8080.github.io\content\보물창고" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\Post" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -170,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730471540036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1730682896302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730682896302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +227,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

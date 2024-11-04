@@ -27,7 +27,20 @@ export const sharedPageComponents: SharedLayout = {
       })
 
     )],
-  footer: Component.RecentNotes({ title: "RecentNotes" })
+  // footer: Component.RecentNotes({ title: "RecentNotes" })
+  footer:    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'ruukr8080/ruukr8080.github.io',
+      // from data-repo-id
+      repoId: 'R_kgDOND4Puw',
+      // from data-category
+      category: '댓글',
+      // from data-category-id
+      categoryId: 'DIC_kwDOND4Pu84Cj71_',
+    }
+  }),
 
 }
 
@@ -39,6 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(), // 메타 정보
   ],
   right: [
+    Component.Graph(),
     Component.TableOfContents(), // 목차
     Component.Backlinks(),
 

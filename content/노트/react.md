@@ -23,6 +23,6 @@ tags: [word,react]
 ---
 
 ## 실습 프로젝트
--[이미지 검색 사이트](https://github.com/ruukr8080/React-Basic)
+-[이미지 검색 사이트 만들기](https://github.com/ruukr8080/React-Basic)
 
 ---

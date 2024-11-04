@@ -9,8 +9,8 @@ tags: [book,]
 '무중단 배포 자동화' (이하 CICD)에 대한 개념을 간단히 소개하는 것을 시작으로
 CICD를 도와주는 도구인 깃헙액션에 대한 전반적인 설명과 함께 실습 가이드도 제공한다.
 
-![Learning Github Actions_image](https://www.oreilly.com/library/view/learning-github-actions/9781098131067/)
-- [공부기록 - Github](https://github.com/ruukr8080/my-docs/tree/main/%EA%B3%B5%EB%B6%80%EA%B8%B0%EB%A1%9D/Github)
+![img.png](quartz/static/GLAbook.png)
+
 
 ---
 >	"소프트웨어 릴리즈는 쉬워야합니다. 버전 관리를 통해 릴리즈와 관련된 것을 모두 자동화 하고,
