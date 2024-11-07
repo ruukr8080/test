@@ -68,7 +68,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "v4",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Quartz",
+    "last_opened_file_path": "C:/Quartz/content/노트/Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,7 +79,7 @@
     "npm.check.executor": "Run",
     "npm.dev.executor": "Run",
     "npm.quartz.executor": "Run",
-    "prettierjs.PrettierConfiguration.Package": "C:\\pureQuartz\\node_modules\\prettier",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Quartz\\node_modules\\prettier",
     "settings.editor.selected.configurable": "com.dsoftware.ghmanager",
     "ts.external.directory.path": "C:\\Quartz\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -87,15 +87,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Quartz\content\노트\Project" />
       <recent name="C:\workspace\ruukr8080.github.io\content\2024보물창고" />
       <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\pureQuartz\content\private" />
-      <recent name="C:\pureQuartz\content" />
-      <recent name="C:\pureQuartz\quartz\static" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\.private" />
-      <recent name="C:\workspace\ruukr8080.github.io\content\보물창고" />
+      <recent name="C:\Quartz\content\NOTE" />
+      <recent name="C:\Quartz\content" />
+      <recent name="C:\Quartz\content\노트" />
+      <recent name="C:\Quartz\content\노트\Project" />
+      <recent name="C:\Quartz\content\노트\Github" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -148,7 +149,7 @@
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
       <workItem from="1730954080681" duration="602000" />
-      <workItem from="1730955075820" duration="1205000" />
+      <workItem from="1730955075820" duration="13279000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
