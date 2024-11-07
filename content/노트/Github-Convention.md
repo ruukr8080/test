@@ -1,9 +1,9 @@
 ---
-title: 커밋컨벤션
+title: Github-Convention
 type: source
 tags:
-  - source
-  - 커밋컨벤션
+  - convention
+  - git
 ---
 
 

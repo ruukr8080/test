@@ -3,13 +3,13 @@ title: Learning Github Action
 type: 책
 tags: [book,]
 ---
-
+![img.png](resource/원숭이책.png)
 ## 소개
 이 책은 4부로 구성됐다. 
 '무중단 배포 자동화' (이하 CICD)에 대한 개념을 간단히 소개하는 것을 시작으로
 CICD를 도와주는 도구인 깃헙액션에 대한 전반적인 설명과 함께 실습 가이드도 제공한다.
 
-![img.png](quartz/static/GLAbook.png)
+
 
 
 ---

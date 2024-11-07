@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bed630bf742e59b",
+            "id": "6ed0349b54d00b1a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241104181655.png"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241104181655"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20241104181655.png",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20241104181655의 백링크"
+              "title": "index의 백링크"
             }
           },
           {
@@ -168,57 +170,58 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "flowershow:Publish with Flowershow": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c94c1644bfc1683e",
+  "active": "6ed0349b54d00b1a",
   "lastOpenFiles": [
-    "resource",
+    "노트/_전체목록.md",
     "IT 대사전.md",
-    "index.md",
-    "원숭이책.png",
-    "오은영소통.png",
-    "깃헙시스템.png",
-    "도서 리뷰/WebMvcConfigurer.md",
-    "노트/뷰프링-docs.md",
-    "Tags",
-    "노트/글지대봇-docs.md",
-    "노트/깃허브좃된경험.md",
-    "목표를 잃지않는 청년.md",
-    "private/자기소개script/함께 하고싶은 동료.md",
-    "private/자기소개script/자소서.md",
-    "private/자기소개script/이력서 - 난사용.md",
-    "Pasted image 20241104181655.png",
-    "조언.md",
-    "질문.md",
-    "private/자기소개script/1분 pr.canvas",
-    "private/자기소개script/취업전략.md",
-    "private/자기소개script/1분 pr.md",
-    "도서 리뷰/Learning-GitHub-Actions.md",
-    "private/자기소개script/본론.md",
-    "private/자기소개script/포폴.md",
-    "private/자기소개script",
-    "private/애착 데이터.md",
+    "리뷰/Learning-GitHub-Actions.md",
     "보물창고2024/학습자료-영상.md",
-    "private/Github-Actions-WorkflowFile.md",
-    "private/무제 파일.md",
-    "작업.md",
-    "원격.md",
-    "보물창고2024/학습자료-책.md",
-    "노트/yargs.md",
-    "Pasted image 20241104181205.png",
-    "Pasted image 20241104181614.png",
-    "보물창고2024/애착 데이터/index.md~",
-    "보물창고2024/애착 데이터",
-    "노트/react.md~",
-    "노트/글지대봇.md~",
+    "노트/_프로젝트.md",
+    "노트/_책.md",
+    "index.md",
     "index.md~",
-    "노트/AI.md~",
-    "보물창고2024/학습자료-책.md~",
-    "보물창고2024/학습자료-포스트.md~",
-    "GLAbook.png",
-    "도서 리뷰/img.png",
-    "Pasted image 20241104092723.png"
+    "노트/_전체목록.md~",
+    "노트/글지대봇-docs.md",
+    "노트/Github-Actions.md",
+    "노트/argument.md",
+    "노트/전체목록.md",
+    "리뷰/Learning-GitHub-Actions.md~",
+    "보물창고2024/학습자료-오픈소스.md",
+    "보물창고2024/학습자료-책.md",
+    "노트/_시리즈.md",
+    "_Series.md",
+    "노트/Github-Docs.md",
+    "노트/_책.md~",
+    "노트/_Projects.md",
+    "리뷰",
+    "노트/_Projects.md~",
+    "노트/_Review.md~",
+    "노트/_Series.md",
+    "노트/_Review.md",
+    "Github 1.md",
+    "Github.md",
+    "보물창고2024/학습자료-포스트.md",
+    "도서 리뷰/Learning-GitHub-Actions.md",
+    "노트/REVIEW.md",
+    "노트/_Series.md~",
+    "노트/_REVIEW.md~",
+    "노트/_REVIEW.md",
+    "노트/확장명 .ts와.tsx.md",
+    "노트/커밋컨벤션.md~",
+    "Pasted image 20241104181655.png",
+    "resource/원숭이책.png",
+    "resource/오은영소통.png",
+    "resource/깃헙시스템.png",
+    "resource/Pasted image 20241104181655.png",
+    "깃헙시스템.png",
+    "오은영소통.png",
+    "원숭이책.png",
+    "private/자기소개script/1분 pr.canvas",
+    "Pasted image 20241104181205.png",
+    "Pasted image 20241104181614.png"
   ]
 }

@@ -4,6 +4,7 @@ type:
   - tech
 tags:
   - tech
+  - git 
 ---
 ## Github Actions 란
 

@@ -4,6 +4,8 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":open_file_folder:",
+    ":file_folder:",
     ":thumbsup:",
     ":thumbsdown:",
     ":rotating_light:"

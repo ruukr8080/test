@@ -1,7 +1,7 @@
 ---
 title: Git-Flow
 type: tech
-tags: [tech]
+tags: [git,tech]
 ---
 ## Git-Flow 전략
 
