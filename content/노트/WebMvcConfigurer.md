@@ -110,8 +110,7 @@ BoardList.vue 파일에서 `fnGetList`에 `pagination` 코드를 추가했다.
 ```js
 // 수정 전
 .then((res) => {
-this.list = res.data.data}
-
+this.list = res.data.data})
 ```
 
 ```js

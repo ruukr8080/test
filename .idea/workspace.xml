@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
+      <changelist_data name="ruukr8080@gmail.com" email="ruukr8080@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/노트/WebMvcConfigurer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.makemd/superstate.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/superstate.mdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/WebMvcConfigurer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/WebMvcConfigurer.md" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ruukr8080@gmail.com &lt;ruukr8080@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="test" />
@@ -68,7 +77,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "v4",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Quartz/content/노트/Project",
+    "last_opened_file_path": "C:/temp/리액트스터디",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -149,7 +158,8 @@
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
       <workItem from="1730954080681" duration="602000" />
-      <workItem from="1730955075820" duration="13279000" />
+      <workItem from="1730955075820" duration="13674000" />
+      <workItem from="1731020041450" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -183,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730720667454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1730969844507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730969844507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
