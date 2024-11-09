@@ -1,6 +1,6 @@
 ---
 title: Github 개념
-type: word
+type: tech
 tags:
   - git
   - tech

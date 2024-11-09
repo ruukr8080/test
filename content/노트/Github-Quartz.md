@@ -1,10 +1,12 @@
 ---
-title: quartz로 blog만들기
+title: Quartz blog만들기
 type: project
 tags: [project]
 ---
-
-# quartz로 blog만들기
+### Quartz 선택한 이유
+* 그래프뷰 <- 제일 큼.
+* Google Analytics 설정이 간편함. (config.toml 파일에서 Analytics 측정 ID만 수정하면 됨.)
+* sns(youtube 같은) 플랫폼과 상호작용이 쉬움
 
 
 ### create repository use quartz template 

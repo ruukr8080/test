@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-
-
+import { cursor } from "sisteransi"
+import left = cursor.left
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(), //검색 기능
     Component.DesktopOnly(
       Component.Explorer({
-        title: "이거 클릭해주세요",
+        title: "드롭다운",
         folderClickBehavior: "collapse",
         folderDefaultState: "collapsed",
         useSavedState: true,
@@ -24,50 +24,54 @@ export const sharedPageComponents: SharedLayout = {
         //   return path.startsWith("public")
         // },
         sortFn: (a, b) => a.name.localeCompare(b.name),
-      })
-
-    )],
+      }),
+    ),
+  ],
   // footer: Component.RecentNotes({ title: "RecentNotes" })
-  footer:    Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'ruukr8080/ruukr8080.github.io',
-      // from data-repo-id
-      repoId: 'R_kgDOND4Puw',
-      // from data-category
-      category: '댓글',
-      // from data-category-id
-      categoryId: 'DIC_kwDOND4Pu84Cj71_',
-    }
-  }),
-
+  footer: Component.ContentMeta()
 }
 
-// 단일 페이지 컴포넌트 (노트 페이지)
+
+// 리스트 페이지 컴포넌트 (e.g home> 노트) 페이지
+export const defaultListPageLayout: PageLayout = {
+  beforeBody: [Component.Breadcrumbs(), Component.ContentMeta(), Component.Graph()],
+  afterBody: [
+  ],
+  right: [
+    // Component.Graph(),
+    // Component.Backlinks(),
+  ],
+}
+
+
+
+// 단일 페이지 컴포넌트 (content 페이지) (e.g home> 노트 > 제목) 페이지
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(), // 글 제목
+    // Component.ArticleTitle(), // 글 제목
     Component.ContentMeta(), // 메타 정보
   ],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "ruukr8080/ruukr8080.github.io",
+        // from data-repo-id
+        repoId: "R_kgDOND4Puw",
+        // from data-category
+        category: "댓글",
+        // from data-category-id
+        categoryId: "DIC_kwDOND4Pu84Cj71_",
+      },
+    }),
+  ],
   right: [
-    Component.Graph(),
-    Component.TableOfContents(), // 목차
-    Component.Backlinks(),
-
+    // Component.Graph(),
+    // Component.TableOfContents(), // 목차
+    // Component.DesktopOnly(Component.TableOfContents()),
+    // Component.Backlinks(),
   ],
 }
 
-// 리스트 페이지 컴포넌트
-export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ContentMeta(),
-  ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
-}

@@ -1,65 +1,71 @@
 ---
-title: 시련이 가득한 IT용어 대사전
-type: word
-tags: [word]
+title: 내 IT 사전
 ---
 
-> 뭐 하나 알기 위해 검색해보면 나오는 자료에서 또 꼬리에 꼬리를 물듯
-> 생소한 단어들이 즐비해 있어서 좌절스러웠기 때문에 [Zettelkasten(제텔카스텐)](Zettelkasten) 메모기법으로 기록한다.
+> [Zettelkasten(제텔카스텐)](#) 메모기법으로 기록한다.
 
 ---
 
 
-## A
-- [ ] [Argument](argument)
-## B
+### A
+- [ ] [argument](argument)
+### B
+- [ ] [boilerplate](w_boilerplate)
 
-## C
+### C
 
-## D
+[//]: # (- [ ] [Cache]&#40;Cache&#41;)
 
-## E
+### D
 
-## F
-- [filename Extension](filename Extension)
-## G
+### E
 
-## H
+### F
 
-## I
+### G
 
-## J
-- [ ] [Json](JSON)
-- [ ] [JSX](JSX)
-## K
+### H
 
-## L
+### I
 
-## M
-- [ ] [MSA](MSA)
-## N
+### J
+- [ ] [Json](w_JSON)
+- [ ] [JSX](w_JSX)
+### K
 
-## O
+### L
 
-## P
+### M
+- [ ] [MSA](w_MSA)
+- [ ] [Markup language](w_MU)
 
-## Q
+### N
 
-## R
+### O
 
-## S
+### P
+- [ ] [pipeline](w_pipeline)
 
-## T
-## U
+### Q
 
-## V
+### R
+- [ ] [route,router,routing](w_route)
+### S
+- [ ] [SDLC](w_SDLC)
+### T
+- [ ] [.ts](w_.ts)
+- [ ] [.tsx](w_.tsx)
 
-## W
+### U
 
-## X
-- [ ] [XML](XML)
+### V
+- [ ] [Vuex](w_vuex)
+### W
 
-## Y
-- [ ] [Yarg](yargs)
+### X
+- [ ] [XML](w_XML)
 
-## Z
+### Y
+- [ ] [Yargs](w_yarg)
+
+### Z

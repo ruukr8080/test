@@ -72,6 +72,7 @@ export interface GlobalConfiguration {
   locale: ValidLocale
 }
 
+
 export interface QuartzConfig {
   configuration: GlobalConfiguration
   plugins: PluginTypes
@@ -87,11 +88,13 @@ export interface FullPageLayout {
   right: QuartzComponent[]
   footer: QuartzComponent
 }
-// export interface MainPageLayout {
-//   left: QuartzComponent[],
-//   pageBody: QuartzComponent
-// }
 
-// export type MainLayout = Pick<MainPageLayout, "left" | "pageBody" >
-export type PageLayout = Pick<FullPageLayout, "beforeBody" | "right">
+export interface MainPageLayout {
+  left: QuartzComponent[],
+  beforeBody: QuartzComponent[]
+}
+
+// export type MainLayout = Pick<FullPageLayout, "left" | "beforeBody" >
+export type PageLayout = Pick<FullPageLayout, "beforeBody" | "afterBody"| "right">
+// export type PageLayout = Pick<FullPageLayout, "left" | "pageBody">
 export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "left" | "footer">

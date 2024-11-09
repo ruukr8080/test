@@ -1,8 +1,7 @@
 ---
 title: SDLC
 type: word
-tags:
-  - word
+tags: [word]
 ---
 
 	Software Development Life Cycle 

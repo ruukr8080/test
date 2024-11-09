@@ -1,9 +1,12 @@
 ---
-aliases:
-  - Route란
 title: Route
+tags: [word,route,router,routing]
 ---
-# Route란 ? 
+
+## "url 주소 경로"
+
+---
+
 _이 작성글은 React 기반으로 설명함._
 
 - [Route](#라우트?)
