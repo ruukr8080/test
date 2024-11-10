@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.makemd/superstate.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/superstate.mdc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/cfg.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/cfg.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/ArticleTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/ArticleTitle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Nav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/contentMeta.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/contentMeta.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/explorer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/explorer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/listPage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/listPage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/search.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/plugins/emitters/folderPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/plugins/emitters/folderPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/IT 대사전.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/IT 대사전.md" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +40,22 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ruukr8080/ruukr8080.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;53c94b4a-db67-4507-a242-53f6731f0d4e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ruukr8080/ruukr8080.github.io.git",
+    "accountId": "53c94b4a-db67-4507-a242-53f6731f0d4e"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "ruukr8080",
+    "repository": "ruukr8080.github.io"
   }
-}</component>
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -164,7 +156,7 @@
       <workItem from="1730460639002" duration="2882000" />
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
-      <workItem from="1731229833257" duration="11151000" />
+      <workItem from="1731229833257" duration="11404000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -190,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731177632351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1731248802349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731248802349</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -8,7 +8,7 @@ title: 내 IT 사전
 
 
 ### A
-- [ ] [argument](argument)
+- [ ] [argument](w_argument)
 ### B
 - [ ] [boilerplate](w_boilerplate)
 
@@ -66,6 +66,6 @@ title: 내 IT 사전
 - [ ] [XML](w_XML)
 
 ### Y
-- [ ] [Yargs](w_yarg)
+- [ ] [Yargs](w_yargs)
 
 ### Z
