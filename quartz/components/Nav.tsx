@@ -1,5 +1,6 @@
 // quartz/components/Nav.tsx
 import { QuartzComponentConstructor } from "./types"
+import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 
 const Nav: QuartzComponentConstructor = () => {
   function NavComponent() {
@@ -8,7 +9,7 @@ const Nav: QuartzComponentConstructor = () => {
       <nav class={"navbar"} className="Navbar">
         {/*<a href={baseDir}>{title}</a>*/}
 
-        <a href={undefined} className="post">
+        <a href={"baseDir"} className="post">
           <svg
             width="31"
             height="27"

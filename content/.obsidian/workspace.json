@@ -11,10 +11,14 @@
             "id": "0abc224dabe4c752",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "노트/Github-Docs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Github-Docs"
             }
           }
         ]
@@ -172,6 +176,8 @@
   },
   "active": "0abc224dabe4c752",
   "lastOpenFiles": [
+    "노트/뷰프링-docs.md",
+    "Tags",
     "노트/JSX.md",
     "private/JS.md",
     "private/Next.js.md",
@@ -201,13 +207,11 @@
     "_Series.md",
     "노트/Github-Docs.md",
     "노트/_책.md~",
-    "노트/_Projects.md",
     "리뷰",
     "노트/_Projects.md~",
     "노트/_Review.md~",
     "노트/_Series.md~",
     "노트/_REVIEW.md~",
-    "노트/커밋컨벤션.md~",
     "Pasted image 20241104181655.png",
     "resource/원숭이책.png",
     "resource/오은영소통.png",

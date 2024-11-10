@@ -95,6 +95,6 @@ export interface MainPageLayout {
 }
 
 // export type MainLayout = Pick<FullPageLayout, "left" | "beforeBody" >
-export type PageLayout = Pick<FullPageLayout, "beforeBody" | "afterBody"| "right">
+export type PageLayout = Pick<FullPageLayout, "header" |"beforeBody" | "afterBody"| "right">
 // export type PageLayout = Pick<FullPageLayout, "left" | "pageBody">
 export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "left" | "footer">

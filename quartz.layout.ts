@@ -34,7 +34,8 @@ export const sharedPageComponents: SharedLayout = {
 
 // 리스트 페이지 컴포넌트 (e.g home> 노트) 페이지
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ContentMeta(), Component.Graph()],
+  header: [Component.Breadcrumbs(), Component.ContentMeta(), ],
+  beforeBody: [Component.Graph()],
   afterBody: [
   ],
   right: [
@@ -47,7 +48,9 @@ export const defaultListPageLayout: PageLayout = {
 
 // 단일 페이지 컴포넌트 (content 페이지) (e.g home> 노트 > 제목) 페이지
 export const defaultContentPageLayout: PageLayout = {
+  header: [Component.ArticleTitle()],
   beforeBody: [
+
     Component.Breadcrumbs(),
     // Component.ArticleTitle(), // 글 제목
     Component.ContentMeta(), // 메타 정보

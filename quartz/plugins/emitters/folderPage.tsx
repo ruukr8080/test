@@ -27,7 +27,7 @@ interface FolderPageOptions extends FullPageLayout {
 
 export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (userOpts) => {
   const opts: FullPageLayout = {
-    afterBody: [],
+    // afterBody: [],
     ...sharedPageComponents,
     ...defaultListPageLayout,
     pageBody: FolderContent({ sort: userOpts?.sort }),
