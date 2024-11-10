@@ -3,7 +3,7 @@
 ul.section-ul {
   list-style: none;
   margin-top: 2em;
-  padding-left: 0;
+  padding-left: 5rem;
 }
 
 li.section-li {
@@ -36,5 +36,10 @@ li.section-li {
 
   & > .tags {
     display: none;
+    list-style: none;
+  }
+   ul.tags > li::marker{
+    list-style: none;
+     display: none;
   }
 }
