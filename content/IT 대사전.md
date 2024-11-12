@@ -50,6 +50,7 @@ title: 내 IT 사전
 
 ### R
 - [ ] [route,router,routing](w_route)
+- [ ] [RSS](w_RSS)
 ### S
 - [ ] [SDLC](w_SDLC)
 ### T

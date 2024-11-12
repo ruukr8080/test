@@ -5,8 +5,3 @@ tags: [word,.ts]
 ---
 ## " [typescript](w_TS) File "
 
-
-
-
-
-

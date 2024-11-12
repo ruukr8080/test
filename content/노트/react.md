@@ -3,9 +3,9 @@ title: react
 type: word
 tags: [word,react] 
 ---
-#### 리액트를 배우기 전 알아둘 개념.
+#### 리액트 배우기 전 알아둘 키워드
 
-- **User Interface** - 유저가 앱에서 어떻게 상호작용 하는지.
+- **User Interface(UI)** - 유저가 앱에서 어떻게 상호작용 하는지.
 - **Routing** - 유저가 어떻게 리다이렉트 이동하는지.
 - **Data Fetching** - 데이터가 있는 위치와 가져오는 방법
 - **Rendering** - 언제 어디서 리소스들을 가져올지
@@ -13,7 +13,7 @@ tags: [word,react]
 - **Infrastructure** - CICD 어디서 할건지.
 - **Performance** - 최적화 어떻게 할지
 - **Scalability** - 트래픽이 증가하는 등. 확장이 필요할 때를 어떻게 대비할지
-- **Developer Experience** - 개발자의 실력
+
 
 	애플리케이션의 각 부분에 대해 솔루션을 직접 구축할지 아니면 
 	패키지, 라이브러리, 프레임워크와 같은 다른 도구를 사용할지 결정해야 한다.

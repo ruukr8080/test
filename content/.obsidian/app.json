@@ -7,5 +7,6 @@
   "showRibbon": true,
   "showInlineTitle": true,
   "foldHeading": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": true
 }
