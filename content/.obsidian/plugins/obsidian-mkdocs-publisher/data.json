@@ -2,11 +2,11 @@
   "github": {
     "user": "ruukr8080",
     "repo": "ruukr8080.github.io",
-    "branch": "posting",
+    "branch": "v4",
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": true,
-      "folderName": "posting"
+      "folderName": "노트"
     },
     "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
@@ -22,7 +22,7 @@
         "smartKey": "smartkey",
         "user": "ruukr8080",
         "repo": "ruukr8080.github.io",
-        "branch": "posting",
+        "branch": "v4",
         "automaticallyMergePR": true,
         "api": {
           "tiersForApi": "Github Free/Pro/Team (default)",
@@ -32,7 +32,7 @@
           "commitMessage": "[PUBLISHER] Merge from obsidian Enveloppe",
           "name": ""
         },
-        "createShortcuts": false,
+        "createShortcuts": true,
         "shareKey": "share",
         "copyLink": {
           "links": "",
@@ -45,7 +45,11 @@
         },
         "set": null,
         "verifiedRepo": true,
-        "rateLimit": 0
+        "rateLimit": 0,
+        "shareAll": {
+          "enable": false,
+          "excludedFileName": "private"
+        }
       }
     ],
     "verifiedRepo": true,

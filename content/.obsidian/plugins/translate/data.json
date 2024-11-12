@@ -1,17 +1,17 @@
 {
   "version": "1.4.5",
-  "display_language": "display",
+  "display_language": "local",
   "filter_mode": "0",
-  "translation_service": "libre_translate",
+  "translation_service": "google_translate",
   "security_setting": "none",
-  "switch_button_action": "switch-both",
+  "switch_button_action": "switch-text",
   "translation_command_action": "replace",
-  "apply_glossary": false,
+  "apply_glossary": true,
   "local_glossary": false,
-  "glossary_preference": "online",
+  "glossary_preference": "both",
   "case_insensitive_glossary": false,
   "enable_animations": true,
-  "glossary_bidirectional": false,
+  "glossary_bidirectional": true,
   "quicksettings_default": [
     "change-service",
     "automatic-translation",
@@ -28,38 +28,19 @@
     "copy"
   ],
   "hide_attribution_default": false,
-  "default_source_language": "auto",
+  "default_source_language": "en",
   "target_language_preference": "specific",
-  "last_used_target_languages": [],
+  "last_used_target_languages": [
+    "ko"
+  ],
   "default_target_language": "ko",
-  "filtered_services": [],
+  "filtered_services": [
+    "google_translate",
+    "fasttext"
+  ],
   "hotkeys": [
     {
-      "id": "view-translate",
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    },
-    {
-      "id": "view-language-switch",
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    },
-    {
-      "id": "view-action-copy",
-      "modifiers": [],
-      "key": ""
-    },
-    {
       "id": "view-action-clear",
-      "modifiers": [],
-      "key": ""
-    },
-    {
-      "id": "view-action-paste",
       "modifiers": [],
       "key": ""
     },
@@ -67,20 +48,28 @@
       "id": "view-clear-fields",
       "modifiers": [],
       "key": ""
+    },
+    {
+      "id": "view-translate",
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
     }
   ],
   "service_settings": {
     "fasttext": {
-      "default_usage": false,
+      "default_usage": true,
       "version": "1.0.0"
     },
     "google_translate": {
       "selected_languages": [
-        "ko"
+        "ko",
+        "en"
       ],
       "api_key": "AIzaSyBznrjV-IKD9Lrzgm4KwklbzkfQlKpc3Y4",
       "auto_translate": true,
-      "auto_translate_interval": 0,
+      "auto_translate_interval": 500,
       "validated": true,
       "available_languages": [
         "ab",

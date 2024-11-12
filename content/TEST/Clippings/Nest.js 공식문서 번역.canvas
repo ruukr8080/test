@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2b4c68278ee99825","type":"file","file":"TEST/노트용/Controllers  Nest.js 공식문서 번역.md","x":4345,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"9085efe04c33c08a","type":"file","file":"TEST/노트용/Providers  Nest.js 공식문서 번역.md","x":5398,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"b8edd5f2509baf64","type":"file","file":"TEST/노트용/Modules  Nest.js 공식문서 번역.md","x":6451,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"18fbb889ddef17af","type":"file","file":"TEST/노트용/Middleware  Nest.js 공식문서 번역.md","x":7504,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"d44ff29ff6563113","type":"file","file":"TEST/노트용/Exception filters  Nest.js 공식문서 번역 1.md","x":8556,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"1eb15958a43241d2","type":"file","file":"TEST/노트용/First steps  Nest.js 공식문서 번역.md","x":3278,"y":-1760,"width":948,"height":1440},
+		{"id":"b2a72ff8513962f9","type":"file","file":"TEST/노트용/Pipes  Nest.js 공식문서 번역.md","x":9609,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"83faf5714d75167e","type":"file","file":"TEST/노트용/Guards  Nest.js 공식문서 번역.md","x":10662,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"5249aef4954f2eea","type":"file","file":"TEST/노트용/Interceptors  Nest.js 공식문서 번역.md","x":11715,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"dfffa46ef3ebae35","type":"file","file":"TEST/노트용/Custom decorators  Nest.js 공식문서 번역.md","x":12768,"y":-1760,"width":932,"height":1440,"color":"4"},
+		{"id":"0020a2bf84e6d118","type":"file","file":"TEST/노트용/Asynchronous providers  Nest.js 공식문서 번역.md","x":1289,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"e9ba86f3ae01cd3c","type":"file","file":"TEST/노트용/Dynamic modules  Nest.js 공식문서 번역.md","x":2668,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"802f711eae389b7b","type":"file","file":"TEST/노트용/Injection scopes  Nest.js 공식문서 번역.md","x":4047,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"9f7ce2890b3b72c3","type":"file","file":"TEST/노트용/Circular dependency  Nest.js 공식문서 번역.md","x":5426,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"f9bcd6a68500ad76","type":"file","file":"TEST/노트용/Module reference  Nest.js 공식문서 번역.md","x":6805,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"246ff6d0af18a563","type":"file","file":"TEST/노트용/Lazy-loading modules  Nest.js 공식문서 번역.md","x":8184,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"a8cc6c502c1d39c9","type":"file","file":"TEST/노트용/Execution context  Nest.js 공식문서 번역.md","x":9563,"y":1760,"width":1219,"height":3200,"color":"4"},
+		{"id":"b04bbba1e6c985af","type":"file","file":"TEST/노트용/Custom providers  Nest.js 공식문서 번역.md","x":-90,"y":1760,"width":1219,"height":3200,"color":"4"}
+	],
+	"edges":[]
+}

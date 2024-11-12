@@ -30,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="v4" />
+        <entry key="$PROJECT_DIR$" value="v4test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,7 +82,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "v4",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Quartz",
+    "last_opened_file_path": "C:/Quartz/content/TEST/Clippings",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,13 +101,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Quartz\content\TEST\Clippings" />
       <recent name="C:\workspace\ruukr8080.github.io\content\노트" />
       <recent name="C:\workspace\ruukr8080.github.io\content" />
       <recent name="C:\workspace\ruukr8080.github.io\quartz\styles" />
       <recent name="C:\workspace\ruukr8080.github.io\content\2024보물창고" />
-      <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Quartz\content\resource" />
+      <recent name="C:\Quartz\content\private" />
       <recent name="C:\workspace\ruukr8080.github.io\content\.private" />
       <recent name="C:\workspace\ruukr8080.github.io\content\보물창고" />
       <recent name="C:\workspace\ruukr8080.github.io\content\Post" />
@@ -136,6 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.check" />
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.check" />
       </list>

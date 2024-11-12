@@ -10,7 +10,11 @@
   "obsidian-git",
   "markdown-blogger",
   "translate",
-  "obsidian-mkdocs-publisher",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-clipper",
+  "settings-search",
+  "calendar",
+  "obsidian-advanced-uri",
+  "breadcrumbs"
 ]

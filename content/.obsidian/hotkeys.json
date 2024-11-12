@@ -56,12 +56,32 @@
     }
   ],
   "workspace:new-tab": [],
-  "translate:translator-open-view": [
+  "translate:translator-selection-default": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
-      "key": "T"
+      "key": "X"
+    }
+  ],
+  "editor:open-link-in-new-window": [],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "workspace:move-to-new-window": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [],
+      "key": "F4"
     }
   ]
 }
