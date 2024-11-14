@@ -97,6 +97,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Quartz\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -169,6 +176,7 @@
       <workItem from="1731229833257" duration="11404000" />
       <workItem from="1731312300222" duration="158000" />
       <workItem from="1731322268627" duration="3739000" />
+      <workItem from="1731541143234" duration="4338000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />

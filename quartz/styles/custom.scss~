@@ -1,3 +1,452 @@
+@use "./variables.scss" as *;
+@use "./syntax.scss";
 @use "./base.scss";
 
-// put your custom CSS here!
+html {
+  scroll-behavior: smooth;
+  text-size-adjust: none;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+body,
+section {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: var(--light);
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+}
+
+
+
+
+// side bar
+.sidebar.left {
+  display: flex;
+  //flex-direction: row;
+  background: #F6F8FA;
+  border-right: solid 1px #EFEFEF;
+
+}
+#explorer-content ul{
+  font-size: .8rem;
+  width: 100%;
+}
+
+#explorer-content li{
+  font-size: .7rem;
+}
+
+.navbar a {
+  width:50%;
+  margin:0 auto;
+
+}
+
+
+
+
+.page {
+  max-width: calc(#{map-get($breakpoints, desktop)} + 2000px);
+  //margin: 0 auto;
+  & article {
+    & > h1 {
+      font-size: 2rem;
+    }
+
+    & li:has(> input[type="checkbox"]) {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    & li:has(> input[type="checkbox"]:checked) {
+      text-decoration: line-through;
+      text-decoration-color: var(--gray);
+      color: var(--gray);
+    }
+
+    & li > * {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    p > strong {
+      color: var(--dark);
+    }
+  }
+
+  & > #quartz-body {
+    display: grid;
+    grid-template-columns: #{map-get($desktopGrid, templateColumns)};
+    grid-template-rows: #{map-get($desktopGrid, templateRows)};
+    column-gap: #{map-get($desktopGrid, columnGap)};
+    row-gap: #{map-get($desktopGrid, rowGap)};
+    grid-template-areas: #{map-get($desktopGrid, templateAreas)};
+    @media all and ($tablet) {
+      grid-template-columns: #{map-get($tabletGrid, templateColumns)};
+      grid-template-rows: #{map-get($tabletGrid, templateRows)};
+      column-gap: #{map-get($tabletGrid, columnGap)};
+      row-gap: #{map-get($tabletGrid, rowGap)};
+      grid-template-areas: #{map-get($tabletGrid, templateAreas)};
+    }
+    @media all and ($mobile) {
+      grid-template-columns: #{map-get($mobileGrid, templateColumns)};
+      grid-template-rows: #{map-get($mobileGrid, templateRows)};
+      column-gap: #{map-get($mobileGrid, columnGap)};
+      row-gap: #{map-get($mobileGrid, rowGap)};
+      grid-template-areas: #{map-get($mobileGrid, templateAreas)};
+    }
+
+    @media all and ($desktop) {
+      padding: 0 1rem;
+    }
+    @media all and ($mobile) {
+      margin: 0 auto;
+    }
+
+    & .sidebar {
+      top: 0;
+      box-sizing: border-box;
+      padding: $topSpacing 0.2rem 0.1rem 0.5rem;
+      display: flex;
+      height: 100vh;
+      position: sticky;
+    }
+
+    & .sidebar.left {
+      z-index: 1;
+      margin-left: 0;
+      grid-area: grid-sidebar-left;
+      flex-direction: column;
+      @media all and ($mobile) {
+        gap: 0;
+        //align-items: center;
+        position: initial;
+        display: flex;
+        height: unset;
+        flex-direction: row;
+        padding: 2rem 1rem 1rem;
+      }
+    }
+
+    & .sidebar.right {
+      grid-area: grid-sidebar-right;
+      //margin-right: 0;
+      flex-direction: column;
+      @media all and ($mobile) {
+        margin-left: inherit;
+        margin-right: inherit;
+      }
+      @media all and ($desktop) {
+        position: initial;
+        height: unset;
+        width: 100%;
+        flex-direction: row;
+        //padding-left: 4rem;
+        & > * {
+          flex: 1;
+        }
+        & > .toc {
+          display: none;
+        }
+      }
+    }
+    & .page-header,
+    & .page-footer {
+      margin-top: 1rem;
+    }
+
+    & .page-header {
+      grid-area: grid-header;
+      margin: $topSpacing 0 0 0;
+      @media all and ($mobile) {
+        margin-top: 0;
+        padding-left: 0;
+      }
+    }
+    & .page-header > *{
+      margin-left: 5rem;
+    }
+
+    & .center > article {
+      margin-top: 2rem;
+      margin-left: 5rem;
+      grid-area: grid-center;
+    }
+
+    & footer {
+      grid-area: grid-footer;
+    }
+    & .giscus {
+      max-width:600px;
+      margin: 0 auto;
+      //margin-left: 5rem;
+    }
+    & .center{
+      margin-top: 5rem;
+      max-width: 100%;
+      min-width: 100%;
+      //margin-left: auto;
+      //margin-right: auto;
+      @media all and ($tablet) {
+        margin-right: 0;
+      }
+      @media all and ($mobile) {
+        margin-right: 0;
+        margin-left: 0;
+      }
+    }
+    & footer {
+      margin-top: 5rem;
+      max-width: 100%;
+      min-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      @media all and ($tablet) {
+        margin-right: 0;
+      }
+      @media all and ($mobile) {
+        margin-right: 0;
+        margin-left: 0;
+      }
+    }
+    & footer {
+      margin-left: 0;
+    }
+  }
+}
+
+
+
+// Search
+
+
+.search {
+  min-width: fit-content;
+  max-width: 8rem;
+  @media all and ($mobile) {
+    flex-grow: 0.3;
+  }
+
+  & > .search-button {
+    background-color: var(--lightgray);
+    border: none;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: inherit;
+    height: 2rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    text-align: inherit;
+    cursor: pointer;
+    white-space: nowrap;
+    width: 100%;
+    //justify-content: space-between;
+
+    & > p {
+      display: inline;
+      padding: 0 1rem;
+    }
+
+    & svg {
+      cursor: pointer;
+      width: 18px;
+      min-width: 18px;
+      margin: 0 0.5rem;
+
+      .search-path {
+        stroke: var(--darkgray);
+        stroke-width: 2px;
+        transition: stroke 0.5s ease;
+      }
+    }
+  }
+}
+
+
+
+
+
+// Explorer
+
+
+
+.explorer {
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  }
+  //& :after {
+  //  pointer-events: none;
+  //  content: "";
+  //  width: 100%;
+  //  height: 50px;
+  //  position: absolute;
+  //  left: 0;
+  //  bottom: 0;
+  //  opacity: 1;
+  //  transition: opacity 0.3s ease;
+  //  background: linear-gradient(transparent 0px, var(--light));
+  //}
+
+
+button#explorer {
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+
+  & h2 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+.folder-outer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s ease-in-out;
+}
+
+.folder-outer.open {
+  grid-template-rows: 1fr;
+}
+
+.folder-outer > ul {
+  overflow: hidden;
+}
+
+#explorer-content {
+  list-style: none;
+  overflow: hidden;
+  overflow-y: auto;
+  max-height: 100%;
+  transition:
+          max-height 0.35s ease,
+          visibility 0s linear 0s;
+  margin-top: 0.5rem;
+  visibility: visible;
+
+  &.collapsed {
+    max-height: 0;
+    transition:
+            max-height 0.35s ease,
+            visibility 0s linear 0.35s;
+    visibility: hidden;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0.08rem 0;
+    padding: 0;
+    transition:
+            max-height 0.35s ease,
+            transform 0.35s ease,
+            opacity 0.2s ease;
+    & li > a {
+      color: var(--dark);
+      opacity: 0.75;
+      pointer-events: all;
+    }
+  }
+  > #explorer-ul {
+    max-height: none;
+  }
+}
+
+svg {
+  pointer-events: all;
+
+  & > polyline {
+    pointer-events: none;
+  }
+}
+
+.folder-container {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  user-select: none;
+
+  & div > a {
+    color: var(--secondary);
+    font-family: var(--headerFont);
+    font-size: 0.95rem;
+    font-weight: $semiBoldWeight;
+    line-height: 1.5rem;
+    display: inline-block;
+  }
+
+  & div > a:hover {
+    color: var(--tertiary);
+  }
+
+  & div > button {
+    color: var(--dark);
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    align-items: center;
+    font-family: var(--headerFont);
+
+    & span {
+      font-size: 0.95rem;
+      display: inline-block;
+      color: var(--secondary);
+      font-weight: $semiBoldWeight;
+      margin: 0;
+      line-height: 1.5rem;
+      pointer-events: none;
+    }
+  }
+}
+
+.folder-icon {
+  margin-right: 5px;
+  color: var(--secondary);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  backface-visibility: visible;
+}
+
+li:has(> .folder-outer:not(.open)) > .folder-container > svg {
+  transform: rotate(-90deg);
+}
+
+.folder-icon:hover {
+  color: var(--tertiary);
+}
+
+.no-background::after {
+  background: none !important;
+}
+
+#explorer-end {
+  // needs height so IntersectionObserver gets triggered
+  height: 4px;
+  // remove default margin from li
+  margin: 0;
+}
+
+

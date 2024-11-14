@@ -1,8 +1,9 @@
 ## 목표
+- Search right로 옮기자.
 
 ### design 
 - 가시성
-  - [ ] navbar 렌딩페이지 구현 , side.left 에 contents-Explorer
+  - [ ] navbar 렌딩페이지 구현 , side.left 에 contents-Explorer , 
   - [ ] MIT를 side bar에 로 위치 수정하고, 기존 위치에 share, giscus, 커피 구걸
 ### 즐코딩
 - [ x ] workflow로 개발/운영 통합 관리 자동화 ✅ 2024-9-29

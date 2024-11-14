@@ -53,7 +53,6 @@ const parseDependencies = (argv: Argv, hast: Root, file: VFile): string[] => {
 
 export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
   const opts: FullPageLayout = {
-    afterBody: [],
     ...sharedPageComponents,
     ...defaultContentPageLayout,
     pageBody: Content(),

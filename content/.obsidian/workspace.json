@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dee89c9db6c43ef9",
+        "id": "0cc1542059b1464e",
         "type": "tabs",
         "children": [
           {
-            "id": "9481f60e6d47a187",
+            "id": "c23884bb98d39742",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Controllers  Nest.js 공식문서 번역"
-            }
-          },
-          {
-            "id": "886d6e9b973cc9bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST/노트용/Asynchronous providers  Nest.js 공식문서 번역.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asynchronous providers  Nest.js 공식문서 번역"
             }
           }
         ]
@@ -87,6 +72,33 @@
               },
               "icon": "lucide-layout-dashboard",
               "title": "Nest.js 공식문서 번역"
+            }
+          },
+          {
+            "id": "2e2c19a073d421f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "837f520e4062ad92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -154,11 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TEST/Clippings/Controllers  Nest.js 공식문서 번역.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Controllers  Nest.js 공식문서 번역 개요"
+              "title": "개요"
             }
           },
           {
@@ -232,6 +242,26 @@
             "id": "3960414f30da5d5b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "444aebb3080a2a75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "3cda733b4388a81a",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -239,7 +269,7 @@
             }
           },
           {
-            "id": "444aebb3080a2a75",
+            "id": "cfe8de598cc957df",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -249,7 +279,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -269,10 +299,8 @@
       "obsidian-git:Open Git source control": false,
       "translate:Open translation view": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -315,10 +343,14 @@
       }
     ]
   },
-  "active": "9481f60e6d47a187",
+  "active": "c23884bb98d39742",
   "lastOpenFiles": [
+    "index.md~",
+    "노트/Nest-공식문서 정리.md",
     "TEST/노트용/First steps  Nest.js 공식문서 번역.md",
+    "TEST/Clippings/First steps  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Controllers  Nest.js 공식문서 번역.md",
+    "TEST/노트용/Controllers  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Asynchronous providers  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Nest.js 공식문서 번역.canvas",
     "TEST/Clippings/Providers  Nest.js 공식문서 번역.md",
@@ -331,7 +363,6 @@
     "TEST/Clippings/Interceptors  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Injection scopes  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Guards  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/First steps  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Execution context  Nest.js 공식문서 번역.md",
     "TEST/Clippings/Exception filters  Nest.js 공식문서 번역 1.md",
     "TEST/Clippings/Dynamic modules  Nest.js 공식문서 번역.md",
@@ -341,9 +372,7 @@
     "resource/Pasted image 20241112123244.png",
     "private/INestApplication.md",
     "TEST/노트용/Asynchronous providers  Nest.js 공식문서 번역.md",
-    "TEST/노트용/Controllers  Nest.js 공식문서 번역.md",
     "TEST/노트용/Providers  Nest.js 공식문서 번역.md",
-    "TEST/노트용/Circular dependency  Nest.js 공식문서 번역.md",
     "TEST/노트용",
     "TEST",
     "posting/resource/Pasted image 20241112123244.png",
@@ -356,7 +385,6 @@
     "resource/오은영소통.png",
     "private/template",
     "Tags",
-    "index.md~",
     "노트/_전체목록.md~",
     "Pasted image 20241104181655.png",
     "resource/원숭이책.png",

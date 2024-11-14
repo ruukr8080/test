@@ -2,6 +2,7 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { cursor } from "sisteransi"
 import left = cursor.left
+import { QuartzEmitterPlugin } from "./quartz/plugins/types"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -30,6 +31,14 @@ export const sharedPageComponents: SharedLayout = {
   // footer: Component.RecentNotes({ title: "RecentNotes" })
   footer: Component.ContentMeta()
 }
+// 메인 페이지 전용 레이아웃
+export const mainPageLayout: PageLayout = {
+  header: [],
+  beforeBody: [],
+  afterBody: [],
+  right: [],
+}
+
 
 
 // 리스트 페이지 컴포넌트 (e.g home> 노트) 페이지

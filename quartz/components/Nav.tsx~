@@ -10,7 +10,7 @@ const Nav: QuartzComponentConstructor = () => {
         {/*<a href={baseDir}>{title}</a>*/}
 
         <div className={"note"}>
-          <a href={"/"} className="post">
+          <a href={"baseDir"} className="post">
             <svg
               width="31"
               height="27"
