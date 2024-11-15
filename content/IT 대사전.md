@@ -19,15 +19,18 @@ title: 내 IT 사전
 ### D
 
 ### E
-
+[[w_Express]]
 ### F
+[[w_Fastify]]
+[[w_FP]]
+[[w_FRP]]
 
 ### G
 
 ### H
 
 ### I
-
+[[w_INestApplication]]
 ### J
 - [ ] [Json](w_JSON)
 - [ ] [JSX](w_JSX)
@@ -42,7 +45,7 @@ title: 내 IT 사전
 ### N
 
 ### O
-
+[[w_OOP]]
 ### P
 - [ ] [pipeline](w_pipeline)
 
@@ -56,7 +59,8 @@ title: 내 IT 사전
 ### T
 - [ ] [.ts](w_.ts)
 - [ ] [.tsx](w_.tsx)
-
+[[w_tag]]
+[[w_TS]]
 ### U
 
 ### V

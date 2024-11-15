@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c23884bb98d39742",
+            "id": "5d6593f8e9acbe72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/Clippings/Controllers  Nest.js 공식문서 번역.md",
+                "file": "노트/Nest-공식문서 정리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controllers  Nest.js 공식문서 번역"
+              "title": "Nest-공식문서 정리"
             }
           }
         ]
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "right": {
     "id": "a13120ba152ba262",
@@ -262,6 +262,66 @@
             "id": "3cda733b4388a81a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "cfe8de598cc957df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "a00db3e9f1cf64c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "081273630f94ffc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "5e2667a83e80eda0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d766d4aef55ee609",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "0dce56782bfd813f",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -269,7 +329,7 @@
             }
           },
           {
-            "id": "cfe8de598cc957df",
+            "id": "563270c4b9b2da08",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -279,7 +339,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -303,76 +363,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "12e551c7a5d70e7f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e0fff898fb976c2e",
-        "type": "window",
-        "children": [
-          {
-            "id": "f4b0c43673f31876",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8f1a8883bff5583f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "TEST/노트용/First steps  Nest.js 공식문서 번역.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "First steps  Nest.js 공식문서 번역"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 209,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c23884bb98d39742",
+  "active": "563270c4b9b2da08",
   "lastOpenFiles": [
-    "index.md~",
     "노트/Nest-공식문서 정리.md",
-    "TEST/노트용/First steps  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/First steps  Nest.js 공식문서 번역.md",
+    "협업 툴 분석 평가.md",
+    "침투적 사고 무의식.md",
+    "문자의-종류와-특징.md",
+    "개발_및_심리측정적_속성.md",
+    "Pasted image 20241115135911.png",
+    "Pasted image 20241115134856.png",
+    "Pasted image 20241115111419.png",
+    "Pasted image 20241115092804.png",
+    "IT 대사전.md",
+    "노트/w_route.md",
+    "노트/w_FP.md",
+    "노트/w_class-Nest+Decorator.md",
+    "노트/w_Express.md",
+    "노트/w_INestApplication.md",
+    "private/Google Api.md",
+    "private/Youtube.md",
+    "노트/w_OOP.md",
+    "노트/w_Fastify.md",
+    "노트/w_FRP.md",
+    "SOTHAT/SOTHAT-Research.md",
+    "SOTHAT/날리지큐브.md",
+    "SOTHAT",
+    "SOTHAT/SOTHAT-BM.md",
+    "SOTHAT/SOTHAT-Dev.md",
+    "SOTHAT/SOTHAT-Log.md",
+    "title/title.md",
+    "노트/w_boilerplate.md",
     "TEST/Clippings/Controllers  Nest.js 공식문서 번역.md",
-    "TEST/노트용/Controllers  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Asynchronous providers  Nest.js 공식문서 번역.md",
+    "침투적.md",
+    "문자의.md",
+    "title",
+    "index.md~",
     "TEST/Clippings/Nest.js 공식문서 번역.canvas",
-    "TEST/Clippings/Providers  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Pipes  Nest.js 공식문서 번역 1.md",
-    "TEST/Clippings/Pipes  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Modules  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Module reference  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Middleware  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Lazy-loading modules  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Interceptors  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Injection scopes  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Guards  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Execution context  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Exception filters  Nest.js 공식문서 번역 1.md",
-    "TEST/Clippings/Dynamic modules  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Custom providers  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Custom decorators  Nest.js 공식문서 번역.md",
-    "TEST/Clippings/Circular dependency  Nest.js 공식문서 번역.md",
     "resource/Pasted image 20241112123244.png",
-    "private/INestApplication.md",
-    "TEST/노트용/Asynchronous providers  Nest.js 공식문서 번역.md",
-    "TEST/노트용/Providers  Nest.js 공식문서 번역.md",
     "TEST/노트용",
     "TEST",
     "posting/resource/Pasted image 20241112123244.png",
@@ -384,13 +411,7 @@
     "resource/깃헙시스템.png",
     "resource/오은영소통.png",
     "private/template",
-    "Tags",
-    "노트/_전체목록.md~",
     "Pasted image 20241104181655.png",
-    "resource/원숭이책.png",
-    "resource/Pasted image 20241104181655.png",
-    "깃헙시스템.png",
-    "오은영소통.png",
     "private/자기소개script/1분 pr.canvas"
   ]
 }

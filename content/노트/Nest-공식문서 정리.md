@@ -8,8 +8,8 @@ Nest.js 공식문서 번역, 정리
 # Intro
 - Node.js의 백엔드 프레임워크.
 - 프로그레시브 Javascript,Typescript 둘 다 지원.
-- [OOP](private/w_OOP.md),[FP](private/w_FP.md),[FRP](private/w_FRP.md) 프레임워크.
-- [Express](private/w_Express.md)를 기본으로 쓰지만 [Fastify](private/w_Fastify.md)로 설정해서 쓸 수 있음.
+- [OOP](w_OOP.md),[FP](w_FP.md),[FRP](w_FRP.md) 프레임워크.
+- [Express](w_Express.md)를 기본으로 쓰지만 [Fastify](w_Fastify.md)로 설정해서 쓸 수 있음.
 - Angular에서 영감을 받아 개발된 프렘웤
 ### Install
 - 설치 방법 : Nest CLI , 스타터 프로젝트 클론 
@@ -48,7 +48,7 @@ src
 
 >Nest CLI를 통해 만들어진 프로젝트는 **각각의 모듈이 자신의 전용 디렉토리를 갖는** 구조로 만들어진다.
 
-❓[INestApplication](INestApplication.md)❓  인바운드 HTTP 리스너 인터페이스임?
+❓[w_INestApplication](w_INestApplication.md)❓  인바운드 HTTP 리스너 인터페이스임?
 
 ## 플랫폼 - ( default : express )
 
