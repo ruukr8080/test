@@ -8,69 +8,69 @@ title: 내 IT 사전
 
 
 ### A
-- [ ] [argument](w_argument)
+[[w_argument|argument]]  
 ### B
-- [ ] [boilerplate](w_boilerplate)
+[[w_boilerplate|boilerplate]]  
 
 ### C
 
-[//]: # (- [ ] [Cache]&#40;Cache&#41;)
+[//]: # ( [Cache]&#40;Cache&#41;)
 
 ### D
 
 ### E
-[[w_Express]]
+[[w_Express|Express 프레임워크]]  
 ### F
-[[w_Fastify]]
-[[w_FP]]
-[[w_FRP]]
+[[w_Fastify|Fastify 프레임워크]]  
+[[w_FP|FP]]  
+[[w_FRP|FRP]]  
 
 ### G
 
 ### H
 
 ### I
-[[w_INestApplication]]
+[[w_INestApplication|INestApplication]]  
 ### J
-- [ ] [Json](w_JSON)
-- [ ] [JSX](w_JSX)
+[[w_JSON|Json]]    
+[[w_JSX|JSX]]  
 ### K
 
 ### L
 
 ### M
-- [ ] [MSA](w_MSA)
-- [ ] [Markup language](w_MU)
+[[w_MSA|MSA]]  
+[[w_MU|Markup language]]  
 
 ### N
 
 ### O
-[[w_OOP]]
+[[w_OOP|OOP]]  
 ### P
-- [ ] [pipeline](w_pipeline)
+[[w_pipeline|pipeline]]  
 
 ### Q
 
 ### R
-- [ ] [route,router,routing](w_route)
-- [ ] [RSS](w_RSS)
+[[w_route|route,router,routing]]  
+[[w_RSS|RSS]]  
 ### S
-- [ ] [SDLC](w_SDLC)
+[[w_SDLC|SDLC]]  
 ### T
-- [ ] [.ts](w_.ts)
-- [ ] [.tsx](w_.tsx)
-[[w_tag]]
-[[w_TS]]
+[[w_.ts|.ts]]  
+[[w_.tsx|.tsx]]  
+[[w_tag]]  
+[[w_TS]]  
 ### U
 
 ### V
-- [ ] [Vuex](w_vuex)
+[[w_vuex|Vuex]]  
 ### W
 
 ### X
-- [ ] [XML](w_XML)
+[[w_XML|XML]]  
 
 ### Y
-- [ ] [Yargs](w_yargs)
+[[w_yargs|Yargs]]  
 
 ### Z
