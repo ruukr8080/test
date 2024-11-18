@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
-      <changelist_data name="ruukr8080@gmail.com" email="ruukr8080@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/fileCache.mdc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.makemd/superstate.mdc" beforeDir="false" afterPath="$PROJECT_DIR$/content/.makemd/superstate.mdc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/plugins/make-md/Spaces.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/노트/글지대봇-docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/.private/글지대봇-docs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/보물창고2024/학습자료-영상.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/보물창고2024/학습자료-영상.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/노트/react.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/노트/react.md" afterDir="false" />
     </list>
     <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +28,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="ruukr8080@gmail.com &lt;ruukr8080@gmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="v4test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +49,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ruukr8080/ruukr8080.github.io.git&quot;,
     &quot;accountId&quot;: &quot;53c94b4a-db67-4507-a242-53f6731f0d4e&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;ruukr8080&quot;,
+    &quot;repository&quot;: &quot;ruukr8080.github.io&quot;
   }
 }</component>
   <component name="KubernetesApiPersistence">{}</component>
@@ -78,7 +82,7 @@
     &quot;com.codeium.enabled&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;v4&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/temp/리액트스터디&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Quartz/content/TEST/Clippings&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -90,23 +94,32 @@
     &quot;npm.dev.executor&quot;: &quot;Run&quot;,
     &quot;npm.quartz.executor&quot;: &quot;Run&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Quartz\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.dsoftware.ghmanager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Quartz\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Quartz\content\노트\Project" />
+      <recent name="C:\Quartz\content\TEST\Clippings" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\노트" />
+      <recent name="C:\workspace\ruukr8080.github.io\content" />
+      <recent name="C:\workspace\ruukr8080.github.io\quartz\styles" />
       <recent name="C:\workspace\ruukr8080.github.io\content\2024보물창고" />
-      <recent name="C:\workspace\ruukr8080.github.io\quartz\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Quartz\content\NOTE" />
-      <recent name="C:\Quartz\content" />
-      <recent name="C:\Quartz\content\노트" />
-      <recent name="C:\Quartz\content\노트\Project" />
-      <recent name="C:\Quartz\content\노트\Github" />
+      <recent name="C:\Quartz\content\private" />
+      <recent name="C:\Quartz\content\resource" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\.private" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\보물창고" />
+      <recent name="C:\workspace\ruukr8080.github.io\content\Post" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -134,6 +147,8 @@
       <list>
         <item itemvalue="npm.dev" />
         <item itemvalue="npm.check" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.check" />
       </list>
     </recent_temporary>
   </component>
@@ -158,9 +173,10 @@
       <workItem from="1730460639002" duration="2882000" />
       <workItem from="1730471599149" duration="14184000" />
       <workItem from="1730544455898" duration="599000" />
-      <workItem from="1730954080681" duration="602000" />
-      <workItem from="1730955075820" duration="13674000" />
-      <workItem from="1731020041450" duration="45000" />
+      <workItem from="1731229833257" duration="11404000" />
+      <workItem from="1731312300222" duration="158000" />
+      <workItem from="1731322268627" duration="3739000" />
+      <workItem from="1731541143234" duration="4338000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -180,29 +196,21 @@
     </task>
     <task id="LOCAL-00003" summary="update">
       <option name="closed" value="true" />
-      <created>1730682896302</created>
+      <created>1731177632351</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1730682896302</updated>
+      <updated>1731177632351</updated>
     </task>
     <task id="LOCAL-00004" summary="update">
       <option name="closed" value="true" />
-      <created>1730720667454</created>
+      <created>1731248802349</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1730720667454</updated>
+      <updated>1731248802349</updated>
     </task>
-    <task id="LOCAL-00005" summary="update">
-      <option name="closed" value="true" />
-      <created>1730969844507</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1730969844507</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
