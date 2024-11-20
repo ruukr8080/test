@@ -19,5 +19,7 @@ tags: [ cote ]
 | 24.11.16 | 1개| 문자열 반복해서 출력하기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |     
 | 24.11.17 | 1개| 대소문자 바꿔서 출력하기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |     
 | 24.11.18 | 1개| 특수문자 출력하기     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
+| 24.11.19 | 1개| 덧셈식 출력하기      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
+| 24.11.20 | 1개| **출력,연산 5문제**   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
   
   
