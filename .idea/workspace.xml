@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="update">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="24.11.21 update COTE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/content/desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/코테/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/코테/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/코테/코테기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/코테/코테기초.md" afterDir="false" />
     </list>
-    <list id="16982c71-0cd5-459a-a792-59b84ba37b3b" name="Changes by lsh" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,10 +80,11 @@
     &quot;Node.js.test.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.tttest.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.codeium.enabled&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;v4&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/A/ruukr8080.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/oasis-remake/back&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -171,8 +170,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -195,7 +194,10 @@
       <workItem from="1731541143234" duration="4338000" />
       <workItem from="1731925544823" duration="1439000" />
       <workItem from="1732099439408" duration="5725000" />
-      <workItem from="1732195291915" duration="3051000" />
+      <workItem from="1732195291915" duration="3940000" />
+      <workItem from="1732262486798" duration="821000" />
+      <workItem from="1732263707860" duration="691000" />
+      <workItem from="1732532392023" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -245,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732111361896</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="24.11.21 update COTE">
+      <option name="closed" value="true" />
+      <created>1732199673880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732199673880</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +275,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="24.11.21 update COTE" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.11.21 update COTE" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
