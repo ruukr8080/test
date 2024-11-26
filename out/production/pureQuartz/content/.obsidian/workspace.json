@@ -1,0 +1,436 @@
+{
+  "main": {
+    "id": "3beadc1873134ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "812c2083c580c010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66dab36b9988adb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/template/cote.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cote"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "738bb05844a32f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8650e8b236aeeaa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94c1644bfc1683e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7ec6b9d5153c24fb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          },
+          {
+            "id": "f6c3939f8eb70bfe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TEST/Clippings/Nest.js 공식문서 번역.canvas",
+                "viewState": {
+                  "x": 6933,
+                  "y": 2320,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Nest.js 공식문서 번역"
+            }
+          },
+          {
+            "id": "2e2c19a073d421f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "837f520e4062ad92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a13120ba152ba262",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4d02d9b3c111bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4077a43beba64a20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST/Clippings/Dynamic modules  Nest.js 공식문서 번역.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Dynamic modules  Nest.js 공식문서 번역의 백링크"
+            }
+          },
+          {
+            "id": "0398b6fdd33f2aa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST/Clippings/Dynamic modules  Nest.js 공식문서 번역.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Dynamic modules  Nest.js 공식문서 번역의 나가는 링크"
+            }
+          },
+          {
+            "id": "01caa708d416944f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "933beeceee629202",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "77cd98b3a64a9073",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "af3097d86f887c00",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {
+                "language_from": "en",
+                "language_to": "ko",
+                "translation_service": "google_translate",
+                "auto_translate": true,
+                "apply_glossary": true,
+                "view_mode": 0,
+                "filter_mode": 0,
+                "show_attribution": false,
+                "top_buttons": [
+                  "change-service",
+                  "automatic-translation",
+                  "change-layout",
+                  "apply-filter",
+                  "open-settings"
+                ],
+                "left_buttons": [
+                  "paste",
+                  "clear"
+                ],
+                "right_buttons": [
+                  "copy"
+                ]
+              },
+              "icon": "google_translate",
+              "title": "Google Translate"
+            }
+          },
+          {
+            "id": "e2f90d389215e979",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "905869c8ffa3d640",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3960414f30da5d5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "444aebb3080a2a75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "3cda733b4388a81a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "cfe8de598cc957df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "a00db3e9f1cf64c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "081273630f94ffc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "5e2667a83e80eda0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d766d4aef55ee609",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "0dce56782bfd813f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "563270c4b9b2da08",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "131d9316339d682a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "565bd1b7d3547424",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": true,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "flowershow:Publish with Flowershow": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false,
+      "translate:Open translation view": false,
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "66dab36b9988adb6",
+  "lastOpenFiles": [
+    "코테/코테기초.md~",
+    "private/template/cote.md~",
+    "private/쿼츠 사용법/쿼츠 Todo.md",
+    "코테/index.md~",
+    "코테/코테기초.md",
+    "코테/index.md",
+    "Clippings/Readline  Node.js v22.11.0 Documentation.md",
+    "코테/수치코테.md",
+    "코테/수치코테.md~",
+    "노트/w_readline.md~",
+    "index.md",
+    "Clippings",
+    "코테/README.md~",
+    "코테/README.md",
+    "코테/0_1-문자열 출력하기.md~",
+    "private/template/word.md~",
+    "IT 대사전.md~",
+    "노트/w_readline.md",
+    "private/쿼츠 사용법/쿼츠 사용법.md",
+    "private/쿼츠 사용법/Feature.md",
+    "private/template/Feature.md",
+    "private/template/callout.md",
+    "private/template/cote.md",
+    "코테/0_3-문자열 반복해서 출력하기.md",
+    "코테/0_4-대소문자 바꿔서 출력하기.md",
+    "코테/0_3-대소문자 바꿔서 출력하기.md",
+    "코테/0_2-a와 b출력하기.md",
+    "코테/0_1-문자열 출력하기.md",
+    "코테/0_2a와 b출력하기.md",
+    "코테/1문자열 출력하기.md",
+    "private/커뮤니티 활성화 및 결속력 강화를 위한 미팅 타입테이블.md",
+    "private/글지대봇-docs.md",
+    "IT 대사전.md",
+    "private/쿼츠 Todo.md",
+    "private/블로그 Todo.md",
+    "Pasted image 20241115135911.png",
+    "Pasted image 20241115134856.png",
+    "Pasted image 20241115111419.png",
+    "Pasted image 20241115092804.png",
+    "TEST/Clippings/Nest.js 공식문서 번역.canvas",
+    "resource/Pasted image 20241112123244.png",
+    "posting/resource/Pasted image 20241112123244.png",
+    "Pasted image 20241112123244.png",
+    "resource/깃헙시스템.png",
+    "resource/오은영소통.png",
+    "Pasted image 20241104181655.png",
+    "private/자기소개script/1분 pr.canvas"
+  ]
+}

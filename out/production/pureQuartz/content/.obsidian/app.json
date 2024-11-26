@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true,
+  "spellcheck": false,
+  "foldIndent": false,
+  "tabSize": 2,
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "foldHeading": true,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": true,
+  "promptDelete": false
+}
