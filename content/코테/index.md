@@ -29,5 +29,7 @@ tags: [ cote ]
 | 24.11.26 | **6개** | **연산,조건문**        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
 | 24.11.27 | **3개** | **조건문**           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
 | 24.11.28 | 1개     | 마지막 두 원소          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
+| 24.11.29 | 1개     | 수 조작하기1           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
+| 24.11.30 | 1개     | 수 조작하기2          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | 구현 |
   
   
