@@ -12,7 +12,7 @@
     "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
-    "dev": "npx quartz build --serve",
+    "dev": "npx quartz build --serve", 
     "nodemon": "nodemon --watch quartz.layout.ts  --watch  quartz.config.ts --ext ts,tsx,scss --exec \"npx quartz build --serve\"",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
