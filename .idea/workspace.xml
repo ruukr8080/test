@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="24.11.21 update COTE">
+    <list default="true" id="21c12680-52bf-4478-9664-cd6cd9c01684" name="Changes" comment="24.11.30 update COTE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/content/코테/코테기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/코테/코테기초.md" afterDir="false" />
+=======
+>>>>>>> f715059553dd1a914870f72788d211007ed8df29
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +98,8 @@
     "npm.dev.executor": "Run",
     "npm.quartz.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "C:\\A\\ruukr8080.github.io\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "Errors",
-    "ts.external.directory.path": "C:\\Quartz\\node_modules\\typescript\\lib",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "ts.external.directory.path": "D:\\ruukr8080.github.io\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -196,6 +199,12 @@
       <workItem from="1732195291915" duration="3940000" />
       <workItem from="1732262486798" duration="821000" />
       <workItem from="1732263707860" duration="691000" />
+      <workItem from="1732777887902" duration="4013000" />
+      <workItem from="1732936153249" duration="7181000" />
+      <workItem from="1733073357515" duration="313000" />
+      <workItem from="1733118347322" duration="2843000" />
+      <workItem from="1733191842030" duration="4970000" />
+      <workItem from="1733395588960" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="feat&#10;&#10;가시성 증가 위해 &#10;page-header가 top에서 더 내려가거나&#10;&#10;left.side의 page-title이 더 올라가거나내려가거나 해야할듯">
       <option name="closed" value="true" />
@@ -253,7 +262,27 @@
       <option name="project" value="LOCAL" />
       <updated>1732199673880</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="8" />
+=======
+    <task id="LOCAL-00008" summary="24.11.21 update COTE">
+      <option name="closed" value="true" />
+      <created>1732795528994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732795528994</updated>
+    </task>
+    <task id="LOCAL-00009" summary="24.11.30 update COTE">
+      <option name="closed" value="true" />
+      <created>1732978728735</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732978728735</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+>>>>>>> f715059553dd1a914870f72788d211007ed8df29
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +304,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="24.11.21 update COTE" />
     <MESSAGE value="24.11.21 update COTE" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.11.21 update COTE" />
+    <MESSAGE value="24.11.30 update COTE" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.11.30 update COTE" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
